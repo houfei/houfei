@@ -1,3 +1,6 @@
 # 👋 Hello World
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houfei&layout=compact&theme=shadow_green&hide_border=true&hide_title=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houfei&theme=graywhite)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houfei&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houfei&theme=graywhite)
