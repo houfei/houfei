@@ -23,6 +23,8 @@ Add to `package.json`:
 
 ## Customized Config
 
+Create `.cz-config.js` and add the config:
+
 ```
 module.exports = {
   types: [
